@@ -128,23 +128,6 @@ print(imp.head(15))
 
 ---
 
-## 📂 Project Structure
-
-```
-/churn-prediction/
-│── notebooks/
-│    └── churn_analysis.ipynb     # Jupyter/Colab notebook
-│── src/
-│    └── pipeline.py              # Reproducible sklearn pipeline
-│── data/
-│    └── sample_churn.csv         # Reduced dataset for local runs
-│── requirements.txt
-│── README.md
-│── .gitignore
-```
-
----
-
 ## 🔒 Security & Best Practices
 
 - **Do NOT commit credentials** or tokens.
