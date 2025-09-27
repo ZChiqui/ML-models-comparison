@@ -145,9 +145,3 @@ print(imp.head(15))
 
 ---
 
-## ✅ Next Steps
-
-- Hyperparameter tuning (`GridSearchCV` / `RandomizedSearchCV`)
-- Try **XGBoost / LightGBM / CatBoost**
-- Deploy a prediction API (FastAPI/Flask) on **Cloud Run**
-- Connect predictions & metrics to **Looker Studio** dashboards
